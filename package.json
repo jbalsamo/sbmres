@@ -1,0 +1,8 @@
+{
+  "name": "sbmres",
+  "version": "1.0.0",
+  "description": "BMI Research API Environment",
+  "main": "index.js",
+  "author": "Joseph Balsamo <joseph.balsamo@stonybrook.edu>",
+  "license": "MIT"
+}
