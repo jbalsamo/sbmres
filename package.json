@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbalsamo/sbmres.git"
+    "url": "git+https://github.com/SBU-BMI/sbmres.git"
   },
   "author": "Joseph Balsamo <joseph.balsamo@stonybrook.edu>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sbm-it/sbmAPI/issues"
+    "url": "https://github.com/SBU-BMI/sbmres/issues"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
