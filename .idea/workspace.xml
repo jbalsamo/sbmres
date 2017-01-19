@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="067c14eb-6684-4288-9567-1c023e604c5b" name="Default" comment="added node modules">
+    <list default="true" id="067c14eb-6684-4288-9567-1c023e604c5b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="sbmres.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,6 +105,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -235,7 +235,7 @@
       <workItem from="1484768650230" duration="703000" />
       <workItem from="1484834103865" duration="1265000" />
       <workItem from="1484839306833" duration="177000" />
-      <workItem from="1484839633969" duration="3362000" />
+      <workItem from="1484839633969" duration="3401000" />
     </task>
     <task id="LOCAL-00001" summary="Initial environment push">
       <created>1484841597427</created>
@@ -251,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484845416405</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added node modules">
+      <created>1484855483915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1484855483915</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5507000" />
+    <option name="totallyTimeSpent" value="5546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="189" y="81" width="1920" height="1022" extended-state="0" />
